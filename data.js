@@ -48,6 +48,12 @@ const translations = {
                 tags: ["CapCut", "Premiere Pro", "YouTube"]
             }
         ],
+        socials: [
+            { icon: "fab fa-facebook-f", link: "https://facebook.com/yourprofile" },
+            { icon: "fab fa-instagram", link: "https://instagram.com/yourprofile" },
+            { icon: "fab fa-twitter", link: "https://twitter.com/yourprofile" },
+            { icon: "fab fa-youtube", link: "https://youtube.com/yourchannel" }
+        ],
         footer_p: "Empowering brands through creative design and innovative digital solutions.",
         tg_btn: "JOIN TELEGRAM CHANNEL",
         copyright: "© 2026 Osman Portfolio. All Rights Reserved."
@@ -58,7 +64,7 @@ const translations = {
         stats: [
             { val: "০৬", label: "অভিজ্ঞতা" },
             { val: "৯৯+", label: "প্রজেক্ট" },
-            { val: "১ হাজার+", label: "ক্লায়েন্ট" }
+            { val: "১ হজার+", label: "ক্লায়েন্ট" }
         ],
         personal_title: "ব্যক্তিগত তথ্য",
         personal_data: [
@@ -100,6 +106,12 @@ const translations = {
                 services: ["প্রিমিয়াম ভিডিও এডিটিং", "ইউটিউব ম্যানেজমেন্ট", "স্ক্রিপ্ট ও স্টোরিটেলিং", "রিলস ও শর্টস কন্টেন্ট"],
                 tags: ["ক্যাপকাট", "প্রিমিয়ার প্রো", "ইউটিউব"]
             }
+        ],
+        socials: [
+            { icon: "fab fa-facebook-f", link: "https://facebook.com/yourprofile" },
+            { icon: "fab fa-instagram", link: "https://instagram.com/yourprofile" },
+            { icon: "fab fa-twitter", link: "https://twitter.com/yourprofile" },
+            { icon: "fab fa-youtube", link: "https://youtube.com/yourchannel" }
         ],
         footer_p: "সৃজনশীল ডিজাইন এবং উদ্ভাবনী ডিজিটাল সমাধানের মাধ্যমে ব্র্যান্ডের ক্ষমতায়ন।",
         tg_btn: "টেলিগ্রাম চ্যানেলে যুক্ত হন",
