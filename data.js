@@ -50,8 +50,8 @@ const translations = {
         ],
         socials: [
             { icon: "fab fa-facebook-f", link: "https://facebook.com/yourprofile" },
-            { icon: "fab fa-instagram", link: "https://instagram.com/yourprofile" },
-            { icon: "fab fa-twitter", link: "https://twitter.com/yourprofile" },
+            { icon: "fab fa-telegram", link: "https://t.me/yourprofile" },
+            { icon: "fab fa-whatsapp", link: "https://wa.me/yournumber" },
             { icon: "fab fa-youtube", link: "https://youtube.com/yourchannel" }
         ],
         footer_p: "Empowering brands through creative design and innovative digital solutions.",
@@ -109,8 +109,8 @@ const translations = {
         ],
         socials: [
             { icon: "fab fa-facebook-f", link: "https://facebook.com/yourprofile" },
-            { icon: "fab fa-instagram", link: "https://instagram.com/yourprofile" },
-            { icon: "fab fa-twitter", link: "https://twitter.com/yourprofile" },
+            { icon: "fab fa-telegram", link: "https://t.me/yourprofile" },
+            { icon: "fab fa-whatsapp", link: "https://wa.me/yournumber" },
             { icon: "fab fa-youtube", link: "https://youtube.com/yourchannel" }
         ],
         footer_p: "সৃজনশীল ডিজাইন এবং উদ্ভাবনী ডিজিটাল সমাধানের মাধ্যমে ব্র্যান্ডের ক্ষমতায়ন।",
