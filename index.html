@@ -229,9 +229,9 @@
             `).join('');
 
 const footerHTML = `
-    <a href="#" class="footer-logo">CREATIVE.OG</a>
+    <a href="/" class="footer-logo">CREATIVE.OG</a>
     <p class="footer-p">${data.footer_p}</p>
-    <a href="https://t.me/YourChannel" target="_blank" class="tg-btn-footer">
+    <a href="https://t.me/osmantechverse" target="_blank" class="tg-btn-footer">
         <i class="fab fa-telegram-plane"></i> ${data.tg_btn}
     </a>
     <div class="social-row">
@@ -240,9 +240,7 @@ const footerHTML = `
                 <i class="${soc.icon}"></i>
             </a>
         `).join('') : `
-            <a href="#"><i class="fab fa-facebook-f"></i></a>
-            <a href="#"><i class="fab fa-instagram"></i></a>
-            <a href="#"><i class="fab fa-twitter"></i></a>
+            
         `}
     </div>
     <p style="color: var(--text-dim); font-size: 12px; margin-top: 50px; opacity: 0.6;">${data.copyright}</p>
